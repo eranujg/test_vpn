@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "width": 1,
+            "title": "Best VPNs",
+            "links": [
+                {
+                    "text": "Overall Best VPN of 2022",
+                    "link": "",
+                    "image": ""
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "width": 0,
+            "title": "By Location",
+            "links": [
+                {
+                    "text": "USA",
+                    "link": "#usa",
+                    "image": "https://vpnradar.org/wp-content/uploads/2022/05/Usa.svg"
+                },
+                {
+                    "text": "CHINA",
+                    "link": "#china",
+                    "image": "https://vpnradar.org/wp-content/uploads/2022/05/China.svg"
+                }
+            ]
+        },
+        {
+            "width": 0,
+            "title": "By Device",
+            "links": [
+                {
+                    "text": "MAC",
+                    "link": "#mac",
+                    "image": "https://vpnradar.org/wp-content/uploads/2022/05/Apple.svg"
+                },
+                {
+                    "text": "PC",
+                    "link": "#pc",
+                    "image": "https://vpnradar.org/wp-content/uploads/2022/05/PC.svg"
+                }
+            ]
+        }
+    ]
+]
